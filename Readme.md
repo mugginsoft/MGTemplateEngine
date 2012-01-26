@@ -14,7 +14,7 @@ What's new in this fork
 Here's a list of things we did to the repo. Feel free to have a look at the commits for more details. The changes are rather small.
 
  * fixed some leaks
- * added a target for a static library to integrade into other projects
+ * added a target for a static library to integrate into other projects
 
 
 License & Copyright
@@ -22,7 +22,7 @@ License & Copyright
 
 All the original code is by Matt. All copyright rests with him if not explicitly claimed in the source files.
 
-Here's the license text from [Matts page](http://mattgemmell.com/license):
+Here's the license text from [Matt's page](http://mattgemmell.com/license):
 
 <div style="height:15em; overflow:scroll; overflow-x:hidden; background-color:#eeeeee; padding:1em">
 <p><strong>License Agreement for Source Code provided by Matt Gemmell</strong></p>
