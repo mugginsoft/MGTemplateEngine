@@ -15,6 +15,7 @@ Here's a list of things we did to the repo. Feel free to have a look at the comm
 
  * fixed some leaks
  * added a target for a static library to integrate into other projects
+ * features RegexKitLite 4.0 for improved rendering
 
 
 License & Copyright
